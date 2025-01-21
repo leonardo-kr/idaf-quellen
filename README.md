@@ -1,3 +1,3 @@
 # IDAF Quellen
 
-[https://archlinux.org]
+[Arch Linux Website](https://archlinux.org)
